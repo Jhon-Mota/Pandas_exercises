@@ -3,13 +3,13 @@
 Basic exercises to fix pandas knowledge.
 
 # It contains:
-- The five first and last data of "Automobile_data.csv";
-- Empty values filled with "one" using "fillna()";
-- Most expansive car;
-- All cars of Toyota;
-- Total cars per company
-- Higesht price of each company;
+- The first five and last five rows of "Automobile_data.csv";
+- Empty values filled with "None" using "fillna()";
+- Most expensive car;
+- All cars from Toyota;
+- Total number of cars per company;
+- Highest price of each company;
 - Average mileage;
-- Sort prices;
+- Sort by prices;
 - Concatenate two data frames;
 - Merge two data frames
